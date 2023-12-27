@@ -1,0 +1,39 @@
+.login-container {
+    padding-top: 20px;
+    padding-left: 400px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+.log{
+    position: relative;
+    width: 400px;
+    padding: 10px;
+    box-shadow: 0 2px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border-radius: 5px;
+}
+
+.form-group {
+    justify-content: space-between;
+    padding-inline: 10px;
+   
+}
+.form-group input {
+    width: 80%;
+    padding: 9px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    padding-left: 30px;
+}
+
+.pwd {
+    display: flex;
+    justify-content: space-between;
+}
+
+.emp {
+    font-size: larger;
+    text-align: right;
+}

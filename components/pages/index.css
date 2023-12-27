@@ -1,0 +1,42 @@
+
+.flex {
+    text-align: center;
+    height: 100vh;
+    background-image: url(images/pexels-mikhail-nilov-7988079.jpg);
+    background-size: cover;
+}
+
+.input {
+    width: 50%;
+    display: flex;
+    padding: 200px;
+    margin-right: 8px;
+    border-radius: 4px;
+    justify-content: space-between;
+}
+
+.button {
+    width: 50%;
+}
+
+.job-listings {
+    text-align: left;
+}
+
+.joc-card {
+    border: 1px solid #6e6d6d;
+}
+
+
+
+
+footer {
+    background-size: cover;
+    background-color: black;
+    color: white;
+    height: 10vh;
+}
+
+.footer {
+   text-align: center;
+}
